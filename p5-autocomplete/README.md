@@ -3,14 +3,7 @@
 This is the directions document for Project P5 Autocomplete in CompSci 201 at Duke University, Spring 2022. Please follow the directions carefully while you complete the project. Please refer to the directions at https://coursework.cs.duke.edu/201spring22/p5-autocomplete rather than any forks or local copies in the event that any changes are made to the document.
 
 ## Outline 
-- [Project Introduction](#project-introduction)
-- [Part 1: Run Autocomplete Main](#part-1-run-autocomplete-main)
-- [Part 2: Implement the compare method in PrefixComparator](#part-2-implement-the-compare-method-in-prefixcomparator)
-- [Part 3: Implement BinarySearchLibrary](#part-3-implement-binarysearchlibrary)
-- [Part 4: Finish Implementing topMatches in BinarySearchAutocomplete](#part-4-finish-implementing-topmatches-in-binarysearchautocomplete)
-- [Part 5: Implement HashListAutocomplete](#part-5-implement-hashlistautocomplete)
-- [Benchmarking and Analysis](#benchmarking-and-analysis)
-- [Submitting, Reflect, and Grading](#submitting-reflect-and-grading)
+- [Project Details](#project-introduction)
 
 ## Project Introduction	
 
