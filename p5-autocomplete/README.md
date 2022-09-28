@@ -2,9 +2,6 @@
 
 This is the directions document for Project P5 Autocomplete in CompSci 201 at Duke University, Spring 2022. Please follow the directions carefully while you complete the project. Please refer to the directions at https://coursework.cs.duke.edu/201spring22/p5-autocomplete rather than any forks or local copies in the event that any changes are made to the document.
 
-## Outline 
-- [Project Details](#project-introduction)
-
 ## Project Introduction	
 
 Autocomplete is an algorithm used in many modern software applications. In all of these applications, the user types text and the application suggests possible completions for that text as shown in the example images below taken from google search (on the left in March 2019 and on the right on  October 9, 2020).
